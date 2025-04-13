@@ -25,7 +25,7 @@ public class OpenApiConfig {
                         .title("To-Do List API")
                         .version("1.0")
                         .contact(contact)
-                        .description("API for managing tasks (To-Do List) in our Spring Boot application.")
+                        .description("API for managing tasks (To-Do List) in my Spring Boot application.")
                         .license(mitLicense));
     }
 }
